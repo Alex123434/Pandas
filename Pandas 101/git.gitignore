@@ -1,0 +1,33 @@
+# ==========================================
+# DATA FILES (Pandas Stuff)
+# ==========================================
+# Ignore datasets so you don't upload massive files to GitHub
+*.csv
+*.json
+*.excel
+*.xlsx
+*.parquet
+
+# ==========================================
+# PYTHON STUFF
+# ==========================================
+# Ignore compiled Python files and cache directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments (where your installed packages live)
+venv/
+env/
+.venv/
+
+# Ignore Jupyter Notebook checkpoints (very common when using Pandas)
+.ipynb_checkpoints/
+
+# ==========================================
+# OS & SYSTEM FILES
+# ==========================================
+# Ignore hidden system files that clutter your repo
+.DS_Store
+Thumbs.db

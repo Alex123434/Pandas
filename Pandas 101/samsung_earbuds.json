@@ -1,0 +1,124 @@
+﻿{
+  "brand": "Samsung",
+  "product_line": "Galaxy Buds",
+  "last_updated": "2026-03-14",
+  "models": [
+    {
+      "model_name": "Galaxy Buds 4 Pro",
+      "release_date": "March 2026",
+      "price_usd": 249.99,
+      "form_factor": "In-ear (Noise isolating)",
+      "specifications": {
+        "audio_drivers": "11mm woofer + 5.5mm planar tweeter (2-way)",
+        "active_noise_cancellation": true,
+        "bluetooth_version": "6.1",
+        "ip_rating": "IP57",
+        "battery_life_hours": {
+          "buds_anc_off": 7.0,
+          "total_with_case_anc_off": 30.0
+        },
+        "battery_capacity_mah": {
+          "earbud": 61,
+          "case": 530
+        },
+        "weight_grams": {
+          "earbud": 5.1,
+          "case": 44.3
+        }
+      },
+      "features": [
+        "Samsung Seamless Codec (24-bit/96kHz)",
+        "Super Clear Call with DNN",
+        "Dual Amplifier",
+        "360 Audio"
+      ]
+    },
+    {
+      "model_name": "Galaxy Buds 4",
+      "release_date": "March 2026",
+      "price_usd": 179.99,
+      "form_factor": "Open-style",
+      "specifications": {
+        "audio_drivers": "Dynamic wide-range speaker",
+        "active_noise_cancellation": true,
+        "bluetooth_version": "6.1",
+        "ip_rating": "IP57",
+        "battery_capacity_mah": {
+          "earbud": 45,
+          "case": 515
+        },
+        "weight_grams": {
+          "earbud": 4.6,
+          "case": 45.1
+        }
+      },
+      "features": [
+        "Everyday comfortable open fit",
+        "Intelligent Ambient Mode",
+        "Auto Switch"
+      ]
+    },
+    {
+      "model_name": "Galaxy Buds 3 FE",
+      "release_date": "September 2025",
+      "price_usd": 149.99,
+      "form_factor": "In-ear (Stem/Blade design)",
+      "specifications": {
+        "audio_drivers": "11mm 1-way Dynamic Driver",
+        "active_noise_cancellation": true,
+        "bluetooth_version": "5.4",
+        "ip_rating": "IP54",
+        "battery_life_hours": {
+          "buds_anc_on": 6.0,
+          "buds_anc_off": 8.5,
+          "total_with_case_anc_on": 24.0,
+          "total_with_case_anc_off": 30.0
+        },
+        "battery_capacity_mah": {
+          "earbud": 53,
+          "case": 515
+        },
+        "weight_grams": {
+          "earbud": 5.0,
+          "case": 41.8
+        }
+      },
+      "features": [
+        "Pinch controls",
+        "Hands-free Gemini access",
+        "Live translation via Interpreter",
+        "Crystal Clear Call technology"
+      ]
+    },
+    {
+      "model_name": "Galaxy Buds 3 Pro",
+      "release_date": "July 2024",
+      "price_usd": 249.99,
+      "form_factor": "In-ear (Stem/Blade design)",
+      "specifications": {
+        "audio_drivers": "2-way Speaker",
+        "active_noise_cancellation": true,
+        "bluetooth_version": "5.4",
+        "ip_rating": "IP57",
+        "battery_life_hours": {
+          "buds_anc_off": 7.0,
+          "total_with_case_anc_off": 30.0
+        },
+        "battery_capacity_mah": {
+          "earbud": 53,
+          "case": 515
+        },
+        "weight_grams": {
+          "earbud": 5.4,
+          "case": 46.5
+        }
+      },
+      "features": [
+        "Blade Lights (LED stems)",
+        "Adaptive EQ/ANC",
+        "Galaxy AI-powered sound",
+        "PC Auto Switch"
+      ]
+    }
+  ]
+}
